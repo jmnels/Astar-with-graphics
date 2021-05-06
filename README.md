@@ -1,2 +1,2 @@
 # Astar-with-graphics
-![](Astar.gif)
+![](Star.gif)
