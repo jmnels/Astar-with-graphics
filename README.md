@@ -1,2 +1,2 @@
 # Astar-with-graphics
-![text](Astar.gif)
+<img src= "Astar.gif" width="40" hieght="40"/>)
