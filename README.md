@@ -1,2 +1,2 @@
 # Astar-with-graphics
-![text](carnivore.jpg)
+![text](Astar.gif)
